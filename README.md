@@ -1,4 +1,4 @@
-# image2aacii
+# image2ascii
 A python program that converts images to ASCII art.
 
 How to use:
